@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "checkJs": false,
+    "strict": true,
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "target": "ES2022",
+    "noEmit": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "./public-api-types.ts"
+  ]
+}
