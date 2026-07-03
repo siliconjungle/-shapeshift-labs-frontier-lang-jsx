@@ -1,6 +1,6 @@
 {
   "name": "@shapeshift-labs/frontier-lang-jsx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Runtime-neutral JSX semantic merge evidence for Frontier Lang.",
   "type": "module",
   "main": "./dist/index.js",
@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "@babel/parser": "^7.26.0",
-    "@shapeshift-labs/frontier-lang-kernel": "0.3.12"
+    "@shapeshift-labs/frontier-lang-kernel": "0.3.13"
   },
   "devDependencies": {
     "typescript": "^5.9.3"
